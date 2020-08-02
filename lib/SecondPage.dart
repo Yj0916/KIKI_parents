@@ -110,7 +110,7 @@ class _SecondPageState extends State<SecondPage> {
 
                                   });
                                   Navigator.pop(context);
-                                }, //todo:확인 누를 시에 db에 아이 이름 추가 내용 넣기 , 현재: 임시로 리스트에만 들어가도록.
+                                }, //todo:확인 누를 시에 db에 아이 이름 추가 내용 넣기 , 현재: 임시로 리스트에만 들어가도록해놨음.
                                 child: Text(
                                   "확인",
                                   style: TextStyle(color: Colors.white, fontSize: 20,fontFamily: 'BMJUA',),

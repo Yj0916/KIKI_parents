@@ -49,6 +49,7 @@ class _FirstPageState extends State<FirstPage> {
                 SizedBox(
                   width: 20,
                 ),
+                //Textfield for code input
                 Container(
                   width: 100,
                   height: 50,
@@ -73,7 +74,6 @@ class _FirstPageState extends State<FirstPage> {
             SizedBox(
               height: 30,
             ),
-
             MaterialButton(
               child: Text('건너뛰기',style: TextStyle(color: Color(0xFFF0AD74),fontFamily: 'BMJUA',fontSize: 17),) ,
               onPressed: ()
