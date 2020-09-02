@@ -1,16 +1,14 @@
-# testingflutterapp
+# KidsKeeper for Kids
 
-A new Flutter application.
+> 키즈키퍼는 부모님과 연동가능한 아이들을 위한 , 위험한 경로를 피해서 안전한 길찾기를 도와주는   어플리케이션 입니다.
+🙋‍♂️[KidsKeeper for Parents](https://github.com/KidsKeeper/Parents)🙋‍♀️
+<div>
+<img src = "https://media.giphy.com/media/l1fOqFhIaUoBz8qGS2/giphy.gif" width ="300" >
+</div>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Made By 
+ - 👩🏻‍🌾 [한재원](https://github.com/ellynhan) 
+ - 👩🏻‍💻 [임윤정](https://github.com/Yj0916)
+ - 👨🏻‍🎨 이황준
+ - 👸🏻 [강승길](https://github.com/seunggil1)
+ - 🦄 [전설](https://github.com/redundant4u)
